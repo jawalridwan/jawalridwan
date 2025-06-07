@@ -27,12 +27,30 @@ I'm a passionate Full-Stack Developer with a strong focus on building modern web
 ### 🌟 Featured Projects
 
 - 🌿 **PlantsPal** — AI plant care assistant  
-- 🛍️ **MiniStore** — Scalable e-commerce w/ Stripe  
-- 🕋 **KarbalaZiyarat** — Virtual Ziyarah + knowledge  
-- 🎶 **Azzahratv** — Stream music freely  
-- 🧠 [Phantom Phishing](https://phantom-phishing.vercel.app)  
-- 🏫 [Autolux Neon](https://autolux-neon.vercel.app)
+  [🔗 GitHub](https://github.com/jawalridwan/plantspal) · [🌍 Live](https://plantspal.vercel.app/)
 
+- 🏫 **Autolux Neon** — Car sales + service  
+  [🔗 GitHub](https://github.com/jawalridwan/auto-genesis-builder-07) · [🌍 Live](https://autolux-neon.vercel.app/)
+
+- 💻 **BuildFree** — Resume +  PDF builder 
+-  [🔗 GitHub](https://github.com/jawalridwan/buildfree-00) · [🌍 Live](https://buildfree.vercel.app/)
+
+- 🕋 **KarbalaZiyarat** — Virtual Ziyarah + knowledge  
+  [🔗 GitHub](https://github.com/jawalridwan/karbalaziyarat) · [🌍 Live](https://karbalaziyarat.vercel.app/)
+
+- 🧠 **Phantom Phishing** — Cyber awareness game  
+  [🔗 GitHub](https://github.com/jawalridwan/phantom-phishing) · [🌍 Live](https://phantom-phishing.vercel.app/)
+
+---
+
+### 📜 Certifications
+
+- ✅ [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/JawadRidwan-4420/URMA6653?sharingId=ED6CDF5E5C6AB020)  
+- ✅ [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/JawadRidwan-4420/W24MFT3N?sharingId=ED6CDF5E5C6AB020)  
+- ✅ [Microsoft Learn: Power Platform](https://learn.microsoft.com/api/achievements/share/en-us/JawadRidwan-4420/8ZPVY8GW?sharingId=ED6CDF5E5C6AB020)  
+- ✅ [Scrum Fundamentals Certified](https://www.scrumstudy.com/certification/verify?type=SODFC&number=1014802)  
+- ✅ [Microsoft Learn: Data Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/JawadRidwan-4420/W24VLUVN?sharingId=ED6CDF5E5C6AB020)  
+- ✅ [Ureed Freelancing Certificate](https://ureed.com/academy/certificate/C48CF3)
 
 ---
 
@@ -73,7 +91,10 @@ I'm a passionate Full-Stack Developer with a strong focus on building modern web
   <a href="https://linkedin.com/in/jawadridwan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jawalridwan"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/jawad_ridwan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://codepen.io/jawadridwan"><img src="https://img.shields.io/badge/CodePen-000?style=flat&logo=codepen&logoColor=white" /></a>
+  <a href="https://app.daily.dev/jawadridwan"><img src="https://img.shields.io/badge/daily.dev-282c34?style=flat&logo=dev.to&logoColor=white" /></a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jawalridwan&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </p>
